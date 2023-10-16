@@ -1,3 +1,3 @@
 # chat_app
 
-A new Flutter project.
+A new Chatting App Flutter project.
